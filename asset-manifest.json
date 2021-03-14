@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/hacktams/static/css/main.1f4b4cad.chunk.css",
-    "main.js": "/hacktams/static/js/main.b43ca60a.chunk.js",
-    "main.js.map": "/hacktams/static/js/main.b43ca60a.chunk.js.map",
+    "main.css": "/hacktams/static/css/main.7875fbea.chunk.css",
+    "main.js": "/hacktams/static/js/main.5327e5e1.chunk.js",
+    "main.js.map": "/hacktams/static/js/main.5327e5e1.chunk.js.map",
     "runtime-main.js": "/hacktams/static/js/runtime-main.73401562.js",
     "runtime-main.js.map": "/hacktams/static/js/runtime-main.73401562.js.map",
-    "static/js/2.834ff811.chunk.js": "/hacktams/static/js/2.834ff811.chunk.js",
-    "static/js/2.834ff811.chunk.js.map": "/hacktams/static/js/2.834ff811.chunk.js.map",
+    "static/js/2.dc1d3bce.chunk.js": "/hacktams/static/js/2.dc1d3bce.chunk.js",
+    "static/js/2.dc1d3bce.chunk.js.map": "/hacktams/static/js/2.dc1d3bce.chunk.js.map",
     "index.html": "/hacktams/index.html",
-    "static/css/main.1f4b4cad.chunk.css.map": "/hacktams/static/css/main.1f4b4cad.chunk.css.map",
-    "static/js/2.834ff811.chunk.js.LICENSE.txt": "/hacktams/static/js/2.834ff811.chunk.js.LICENSE.txt",
+    "static/css/main.7875fbea.chunk.css.map": "/hacktams/static/css/main.7875fbea.chunk.css.map",
+    "static/js/2.dc1d3bce.chunk.js.LICENSE.txt": "/hacktams/static/js/2.dc1d3bce.chunk.js.LICENSE.txt",
     "static/media/logo.f47a75a3.svg": "/hacktams/static/media/logo.f47a75a3.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.73401562.js",
-    "static/js/2.834ff811.chunk.js",
-    "static/css/main.1f4b4cad.chunk.css",
-    "static/js/main.b43ca60a.chunk.js"
+    "static/js/2.dc1d3bce.chunk.js",
+    "static/css/main.7875fbea.chunk.css",
+    "static/js/main.5327e5e1.chunk.js"
   ]
 }
